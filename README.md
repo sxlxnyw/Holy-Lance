@@ -21,7 +21,10 @@ A Linux Resource / Performance Monitor based on PHP.
 ```bash
 wget 'https://raw.githubusercontent.com/lincanbin/Holy-Lance/master/build/holy_lance.php' --no-check-certificate
 ```
-
+*__OR__*
+```bash
+php -s ip:port
+```
 ## Build
 
 If you want to modify the file name, you must rebuild it: 
