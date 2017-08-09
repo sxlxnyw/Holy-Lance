@@ -23,7 +23,7 @@ wget 'https://raw.githubusercontent.com/lincanbin/Holy-Lance/master/build/holy_l
 ```
 *__OR__*
 ```bash
-php -s ip:port
+php -S ip:port
 ```
 ## Build
 
